@@ -182,3 +182,4 @@ javac BubbleSort.java && java BubbleSort
 
 > **Nota:** como cada pasada crea listas nuevas, esta versión gasta más memoria y tiempo que la clásica *in-place* del pseudocódigo (que es O(1) en espacio). La versión clásica con intercambios sobre el arreglo está en [`../Codigo_Java/Ordenamientos.java`](../Codigo_Java/Ordenamientos.java) (método `bubble`).
 # bubble_sort_algorithm
+# bubble_sort_algorithm
